@@ -1,0 +1,13 @@
+{
+  "name": "repetition-review-full",
+  "version": "1.0.0",
+  "description": "Repetition Review Obsidian Plugin",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "keywords": ["obsidian-plugin"],
+  "author": "",
+  "license": "MIT",
+  "type": "module"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "repetition-review",
+  "name": "Repetition Review",
+  "version": "0.0.1",
+  "minAppVersion": "1.0.0",
+  "description": "Show files that need repetition review based on tag and spaced repetition days.",
+  "author": "", 
+  "authorUrl": "",
+  "main": "dist/main.js"
+}
